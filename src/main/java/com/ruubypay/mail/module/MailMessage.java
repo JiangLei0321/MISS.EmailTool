@@ -16,7 +16,7 @@ public class MailMessage implements Serializable {
     private String fromNick;
     //发给谁
     private String to;
-    //邮件主题
+    //邮件标题
     private String subject;
     //邮件内容
     private String text;
